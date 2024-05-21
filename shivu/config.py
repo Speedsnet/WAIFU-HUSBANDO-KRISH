@@ -8,12 +8,12 @@ class Config(object):
     TOKEN = "6707490163:AAHZzqjm3rbEZsObRiNaT7DMtw_i5WPo_0o"
     mongo_url = "mongodb+srv://HaremDBBot:ThisIsPasswordForHaremDB@haremdb.swzjngj.mongodb.net/?retryWrites=true&w=majority"
     PHOTO_URL = ["https://t.me/oglogbots/4485", "https://t.me/oglogbots/4486"]
-    SUPPORT_CHAT = "Collect_em_support"
-    UPDATE_CHAT = "Collect_em_support"
-    BOT_USERNAME = "Collect_Em_AllBot"
-    CHARA_CHANNEL_ID = "-1002133191051"
-    api_id = 26626068
-    api_hash = "bf423698bcbe33cfd58b11c78c42caa2"
+    SUPPORT_CHAT = "aboutsyanx"
+    UPDATE_CHAT = "syanxx_net"
+    BOT_USERNAME = "Syn_Ixbot"
+    CHARA_CHANNEL_ID = "-1002115990090"
+    api_id = 27704736
+    api_hash = "2995e94e0f86a95fd97a156ee1d91639"
 
     
 class Production(Config):
