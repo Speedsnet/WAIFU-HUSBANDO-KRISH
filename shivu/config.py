@@ -16,7 +16,7 @@ class Config(object):
     api_hash = "2995e94e0f86a95fd97a156ee1d91639"
 
     
-class Production(Cronfig):
+class Production(Config):
     LOGGER = True
 
 
