@@ -6,7 +6,7 @@ class Config(object):
     sudo_users = "6845325416", "6765826972"
     GROUP_ID = -1002133191051
     TOKEN = "6707490163:AAHZzqjm3rbEZsObRiNaT7DMtw_i5WPo_0o"
-    mongo_url = "mongodb+srv://HaremDBBot:ThisIsPasswordForHaremDB@haremdb.swzjngj.mongodb.net/?retryWrites=true&w=majority"
+    mongo_url = "mongodb+srv://Arman121:Arman121@arman.ji8gqxd.mongodb.net/?retryWrites=true&w=majority"
     PHOTO_URL = ["https://t.me/oglogbots/4485", "https://t.me/oglogbots/4486"]
     SUPPORT_CHAT = "aboutsyanx"
     UPDATE_CHAT = "syanxx_net"
