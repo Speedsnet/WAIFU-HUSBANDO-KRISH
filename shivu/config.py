@@ -9,14 +9,14 @@ class Config(object):
     mongo_url = "mongodb+srv://Arman121:Arman121@arman.ji8gqxd.mongodb.net/?retryWrites=true&w=majority"
     PHOTO_URL = ["https://t.me/oglogbots/4485", "https://t.me/oglogbots/4486"]
     SUPPORT_CHAT = "aboutsyanx"
-    UPDATE_CHAT = "syanxx_net"
+    UPDATE_CHAT = "x4rishtalk"
     BOT_USERNAME = "Syn_Ixbot"
     CHARA_CHANNEL_ID = "-1002115990090"
     api_id = 27704736
     api_hash = "2995e94e0f86a95fd97a156ee1d91639"
 
     
-class Production(Config):
+class Production(Cronfig):
     LOGGER = True
 
 
